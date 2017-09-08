@@ -1,4 +1,5 @@
 # Maintainer: Andreas Linz <alinz@klingt.net>
+# based on https://aur.archlinux.org/packages/front-panel-designer/
 
 pkgname=schaeffer-front-panel-designer
 pkgver=5.1.1
